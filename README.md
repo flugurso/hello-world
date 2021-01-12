@@ -1,3 +1,3 @@
 # hello-world
-First project in English  
-Just for test
+First project in English.  
+Just for test.

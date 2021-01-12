@@ -1,5 +1,2 @@
-# hello-world
-Esperanta versio. 
-Saluton la mondo. 
-Pro testu.  
-Ne zorgu pri tio. 
+First project in English.  
+Just for test.

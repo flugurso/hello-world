@@ -1,2 +1,3 @@
 # hello-world
-la unua
+First project in English
+Just for test
